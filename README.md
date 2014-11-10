@@ -17,6 +17,6 @@
          under the License.
 -->
 
-# org.apache.cordova.file
+# fi.avaus.cordova.file
 
 Plugin documentation: [doc/index.md](doc/index.md)
